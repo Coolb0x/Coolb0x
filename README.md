@@ -1,18 +1,18 @@
-👋 Hi, I'm Anton
+### 👋 Hi, I'm Anton
 
 🤓 A hands-on learner who's passionate about automation and AI.
 
 🎮 My work in tech support led to different work-related and hobby projects that automate workflows, but I'm equally passionate about developing innovative AI tools for a variety of helpful applications!
 
-🚀 What I'm Working On
+### 🚀 What I'm Working On
 
 I'm currently learning Python, while I am trying to up my skills in Playwright, TypeScript and React.
 
-🛠️ Current Project - K-Bot
+### 🛠️ Current Project - Guide Guru
 
-A Slack App, that's connected to OpenAI API, where it uses RAG via vector store to keep an internal KB, so the Slack Bot (K-Bot) answers questions that demand certain document knowledge.
+A Slack App, built with [Node Slack SDK](https://tools.slack.dev/node-slack-sdk/), and it is connected to OpenAI API, where it uses RAG via vector store to keep an internal KB, so that the AI-powered Slack Bot (Guide Guru) answers questions that demand certain document knowledge.
 
-🧑‍💻 Tech I work on :
+### 🧑‍💻 Tech I work on :
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="docker" width="60" height="50"/>
