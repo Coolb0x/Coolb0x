@@ -4,7 +4,7 @@
 
 🎮 My work in tech support led to different work-related and hobby projects that automate workflows, but I'm equally passionate about developing innovative AI tools for a variety of helpful applications!
 
-### 🚀 What I'm Working On
+### 🚀 What I'm trying to upgrade
 
 I'm currently learning Python, while I am trying to up my skills in Playwright, TypeScript and React.
 
