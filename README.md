@@ -1,16 +1,27 @@
-### 👋 Hi, I'm Anton
+# Anton | Automation | AI
+### 🚀 The Triple-A Rated Stack
 
-🤓 A hands-on learner who's passionate about automation and AI.
+**👋 Hi, I'm Anton.**
+I am an Automation Engineer specializing in the reliability of Generative AI. I bridge the gap between traditional test automation and the probabilistic nature of Large Language Models.
 
-🎮 My work in tech support led to different work-related and hobby projects that automate workflows, but I'm equally passionate about developing innovative AI tools for a variety of helpful applications!
+### ⚡ About
+Starting in Tech Support gave me a deep empathy for the end-user. Today, I use that empathy to build automated workflows that prevent bugs before they ship. My current passion lies in **AI Engineering**—specifically, building frameworks that keep AI Agents honest and reliable.
 
-### 🚀 What I'm trying to upgrade
+### 🧠 Skills & Focus
+* **Languages:** TypeScript (Expert), Python (Learning)
+* **Core:** Playwright, AI Agent Evaluation, RAG Pipelines
+* **Interests:** Building "Judge" models to audit Agentic behavior.
 
-I'm currently learning Python, while I am trying to up my skills in Playwright, TypeScript and React.
+### 📂 Projects
 
-### 🛠️ Current Project - Guide Guru
+**1. LLM-as-a-Judge in Playwright** *(Active)*
+Experimenting with self-correcting test automation. I am building a framework where Playwright drives the UI, and an LLM acts as the "Judge" to verify that an autonomous agent completed its task correctly.
 
-A Slack App, built with [Node Slack SDK](https://tools.slack.dev/node-slack-sdk/), and it is connected to OpenAI API, where it uses RAG via vector store to keep an internal KB, so that the AI-powered Slack Bot (Guide Guru) answers questions that demand certain document knowledge.
+**2. Guide Guru (Slack RAG Bot)** *(Completed)*
+A custom Slack application built with the **Node Slack SDK** and **OpenAI**.
+* **Features:** Implements Retrieval-Augmented Generation (RAG).
+* **Tech:** Uses a Vector Store to maintain an internal Knowledge Base.
+* **Utility:** Allows users to query complex documentation and receive accurate, cited answers within Slack.
 
 ### 🧑‍💻 Tech I work on :
 
@@ -23,7 +34,6 @@ A Slack App, built with [Node Slack SDK](https://tools.slack.dev/node-slack-sdk/
       <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/playwright.svg" alt="playwright" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="playwright" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="playwright" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="playwright" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/> 
 </p>
